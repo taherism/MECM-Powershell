@@ -1,4 +1,4 @@
-#Connecting to CM Server
+#Connect to CM Site Server
 $SiteCode = "XYZ" # Site code 
 $ProviderMachineName = "ServerName.TEST.COM" # SMS Provider machine name
 $initParams = @{}
